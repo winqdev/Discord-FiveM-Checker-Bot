@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fivem-server-stats": "^1.5.0",
+    "fs": "^0.0.1-security",
+    "gamedig": "^4.0.4",
+    "path": "^0.12.7"
+  },
+  "name": "container",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
